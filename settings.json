@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "setecteam.aternos.me",
+    "port": 63690,
+    "version": "26.3 (244)"
   },
   "position": {
     "enabled": true,
